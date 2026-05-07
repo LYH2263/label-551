@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg12" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5D4037"/>
+      <stop offset="100%" style="stop-color:#3E2723"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg12)"/>
+  <text x="200" y="120" font-family="Arial" font-size="60" text-anchor="middle">🍫</text>
+  <text x="200" y="180" font-family="Arial" font-size="18" fill="#FFFFFF" text-anchor="middle" font-weight="bold">黑森林蛋糕</text>
+  <text x="200" y="210" font-family="Arial" font-size="14" fill="#BCAAA4" text-anchor="middle">巧克力蛋糕</text>
+</svg>
